@@ -3,3 +3,8 @@ h1 {
   font-size: 45px;
   text-align: center;
 }
+
+img {
+  margin-left: auto;
+  margin-right: auto;
+}
